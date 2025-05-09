@@ -1,3 +1,13 @@
 fastapi
 uvicorn
 sqlmodel
+python-dotenv
+psycopg2-binary
+spacy
+sentence-transformers
+pymupdf
+reportlab
+python-multipart
+
+
+# python -m spacy download en_core_web_sm
